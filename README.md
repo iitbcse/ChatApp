@@ -1,4 +1,4 @@
 # ChatApp
-Similar to WhatsApp
+Android app similar to WhatsApp
 
-Incomplete app. The final, fully working app is lost. This is the pre-final version of the app.
+Supports text messages, group messages, media sharing along with public groups/channels similar to telegram.
